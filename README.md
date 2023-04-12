@@ -14,4 +14,4 @@
 
 **Ссылка на проект GitHub**
 
-* [Philantropy]( https://derezaivan.github.io/pizza-cheff/)
+* [Pizza-cheff]( https://derezaivan.github.io/pizza-cheff/)
