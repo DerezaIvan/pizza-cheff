@@ -1,6 +1,17 @@
-# Pizza-cheff
+# Проект : Pizza-cheff
 
-Адаптивный сайт для заказа пиццы, с использованием библиотеки JQuery.
+**-Адаптивная верстка для всех расширении**
 
-Ссылка на проект 
-[https://derezaivan.github.io/pizza-cheff/]
+**-Кроссбраузерная верстка**
+
+**-Flex**
+
+**-Grid**
+
+**-JQeury**
+
+**-Валидация формы**
+
+**Ссылка на проект GitHub**
+
+* [Philantropy]( https://derezaivan.github.io/pizza-cheff/)
